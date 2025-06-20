@@ -61,16 +61,27 @@ Visit `http://localhost:8000/docs` for interactive API documentation.
 ## Features
 
 ✅ **Complete CRUD Operations** for tasks and users
+
 ✅ **JWT Authentication** with secure password hashing
+
 ✅ **PostgreSQL Integration** with SQLAlchemy ORM
+
 ✅ **Proper Project Structure** following FastAPI best practices
+
 ✅ **Automatic Swagger Documentation**
+
 ✅ **Docker Support** for easy deployment
+
 ✅ **Input Validation** with Pydantic models
+
 ✅ **Error Handling** and proper HTTP status codes
+
 ✅ **CORS Support** for frontend integration
+
 ✅ **Database Relationships** (User -> Tasks)
+
 ✅ **Query Parameters** for pagination
+
 ✅ **Security Dependencies** for protected routes
 
 This is a production-ready FastAPI application with comprehensive features for task management!
